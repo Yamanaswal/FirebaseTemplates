@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseTemplates</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="toolbar_text">Toolbar_Text</string>
+    <string name="send_to">"Send To "</string>
+</resources>
